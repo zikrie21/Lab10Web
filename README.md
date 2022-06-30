@@ -58,7 +58,7 @@ $b->tampilWarna();
 ```
 
 - Output :
-![img1](ss/1.PNG)
+![img1](ss/ss2.png)
 
 ### 2. Buat file baru dengan nama form.php
 - Kode nya seperti dibawah ini :
@@ -128,4 +128,13 @@ echo "</body></html>";
 ```
 
 - Output
-![img1](ss/1.png)
+![img1](ss/ss3.png)
+
+
+
+
+-------
+### Lampiran codingan 
+
+![img1](ss/ss1.png)
+
